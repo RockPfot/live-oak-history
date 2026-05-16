@@ -14,14 +14,38 @@ export const toursData = [
     },
     waypoints: [
       {
-        id: 1,
-        name: "Old General Store",
-        lat: 36.9755,
-        lng: -121.7955,
-        text: "Established in 1892, this building served as the commercial heart of Live Oak for over a century. Originally built as a general merchandise store, it provided essential goods to residents and farmers in the area.",
-        type: "modal",
-        image: null
-      },
+  id: 1,
+  name: "Arana Gulch",
+  description: "Explore the natural beauty and open space of Arana Gulch, a 67-acre coastal plain surrounded by gulches and live oaks.",
+  lat: 36.97661000299834,
+  lng: -121.9991942499304,
+  bounds: {
+    north: 36.9770,
+    south: 36.9750,
+    east: -121.9990,
+    west: -122.0015
+  },
+  waypoints: [
+    {
+      id: 1,
+      name: "Rose of Castile",
+      lat: 36.975880778512526,
+      lng: -122.00059905679839,
+      text: "The Rose of Castile was brought to Europe from Damascus during the Crusades and then to New Spain with Spanish settlers. It grows from canes rather than a stump. A row can be found along the trail by Hagemann Gulch Bridge.",
+      type: "modal",
+      image: null
+    },
+    {
+      id: 2,
+      name: "The Dairies",
+      lat: 36.97546765020932,
+      lng: -121.99999890486555,
+      text: "The East Side and Live Oak Dairies operated here from 1919 to 1948 by Hans and Ernest Kinzli brothers of Switzerland. Grazing continued here by other dairies until 1987.",
+      type: "modal",
+      image: null
+    }
+  ]
+}
       {
         id: 2,
         name: "Historic Oak Tree",
