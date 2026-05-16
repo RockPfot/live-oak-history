@@ -32,36 +32,8 @@ export const toursData = [
       image: null
     }
   ]
-}
-      {
-        id: 2,
-        name: "Historic Oak Tree",
-        lat: 36.9760,
-        lng: -121.7950,
-        text: "This magnificent oak tree has stood on this spot for an estimated 300+ years. Local historians believe it was a gathering point for Indigenous peoples long before European settlement. It remains a symbol of the area's continuity and resilience.",
-        type: "modal",
-        image: null
-      },
-      {
-        id: 3,
-        name: "Community Hall History",
-        lat: 36.9752,
-        lng: -121.7960,
-        text: "Built in 1912 to serve as a gathering place for community events, dances, and public meetings, the Live Oak Community Hall was the social center of the area for generations. The building reflects the architectural styles popular in early 20th century California, with its simple but elegant design.\n\nThe hall hosted countless celebrations, from harvest festivals to holiday gatherings. Local families gathered here to share news, coordinate farming efforts, and celebrate together. The wooden floors, still visible in parts of the structure, bear the marks of decades of dancing and celebration.\n\nDuring World War II, the hall was used for community support activities and bond drives. After the decline of agricultural focus in the area, the building fell into disrepair, but efforts to preserve it have kept its historic character intact.\n\nToday, the Community Hall stands as a reminder of Live Oak's vibrant social history and the importance of gathering spaces in building community bonds.",
-        type: "page",
-        image: null
-      },
-      {
-        id: 4,
-        name: "Apple Orchard Site",
-        lat: 36.9758,
-        lng: -121.7940,
-        text: "This location was once part of a thriving apple orchard that operated from the 1880s through the 1950s. The area's Mediterranean climate proved ideal for growing several varieties of apples.",
-        type: "modal",
-        image: null
-      }
-    ]
-  },
+},
+
   {
     id: 2,
     name: "Oak Tree Park Loop",
