@@ -32,9 +32,8 @@ export const toursData = [
       image: null
     }
   ]
-},
-
-  {
+ },
+ {
     id: 2,
     name: "Oak Tree Park Loop",
     description: "A nature-focused tour highlighting the natural heritage of Live Oak.",
