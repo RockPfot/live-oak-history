@@ -20,7 +20,7 @@ export const toursData = [
       lng: -122.00059905679839,
       text: "The Rose of Castile was brought to Europe from Damascus during the Crusades and then to New Spain with Spanish settlers. It grows from canes rather than a stump. A row can be found along the trail by Hagemann Gulch Bridge.",
       type: "modal",
-      image: null
+      image: "/images/CastileRose.png"
     },
     {
       id: 2,
@@ -29,7 +29,7 @@ export const toursData = [
       lng: -121.99999890486555,
       text: "The East Side and Live Oak Dairies operated here from 1919 to 1948 by Hans and Ernest Kinzli brothers of Switzerland. Grazing continued here by other dairies until 1987.",
       type: "modal",
-      image: null
+      image: "/images/cattle.jpg"
     }
   ]
  },
