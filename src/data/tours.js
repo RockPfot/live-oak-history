@@ -1,19 +1,6 @@
 // Sample data structure - replace with your content from brochures
 export const toursData = [
   {
-    id: 1,
-    name: "Downtown Live Oak Walk",
-    description: "A journey through the heart of Live Oak's historic downtown.",
-    lat: 36.975,
-    lng: -121.795,
-    bounds: {
-      north: 36.980,
-      south: 36.970,
-      east: -121.785,
-      west: -121.805
-    },
-    waypoints: [
-      {
   id: 1,
   name: "Arana Gulch",
   description: "Explore the natural beauty and open space of Arana Gulch, a 67-acre coastal plain surrounded by gulches and live oaks.",
